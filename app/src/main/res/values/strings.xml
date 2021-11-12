@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Food Order App</string>
+    <string name="alootikki_burger">Aloo Tikki Burger</string>
+    <string name="_45">45</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+</resources>
